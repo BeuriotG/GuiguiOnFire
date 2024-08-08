@@ -9,7 +9,11 @@ const btnReset = document.getElementById('btn-reset');
 
 btnAdd.addEventListener('click', () => {
     number += 1;
-    numberString.innerHTML = `Le compte est de ${number}`;
+    if (number === 10) {
+        numberString.innerHTML = `Bravo tu sais compté jusque 10!`;
+    } else {
+        numberString.innerHTML = `Le compte est de ${number}`;
+    }
 });
 
 btnSub.addEventListener('click', () => {
@@ -21,3 +25,4 @@ btnReset.addEventListener('click', () => {
     number = 0;
     numberString.innerHTML = `Le compte est de ${number}`;
 });
+
