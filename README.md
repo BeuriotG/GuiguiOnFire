@@ -57,3 +57,18 @@ Chaque ligne du tableau doit contenir un bouton qui permet de supprimer la ligne
 ### Projet
 Si tu as un devis en cours, travaille sur le projet. Sinon, essaie de travailler sur ton propre projet.
 On pourra rediscuter d'idees a implementer si tu as besoin. 
+
+Objectif: 
+- Mettre en place un Pokédex qui a une recherche intégrée
+- Cliquer sur une page de détail et l'afficher dans une page Web
+- Pur Trio langages
+- Pas de requête HTTP, persistence des données en JSON
+
+
+Mini Objectif=
+
+- Conceptualiser la page et travailler sur les containers Flexbox
+- Page de détail en premier sans interraction (HTML, CSS) 
+- Ajout de la partie dynamique en récuppérant le Poké et mettre à jour les champs
+
+
