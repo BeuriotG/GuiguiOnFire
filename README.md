@@ -65,10 +65,10 @@ Objectif:
 - Pas de requête HTTP, persistence des données en JSON
 
 
-Mini Objectif=
-
+#### Mini Objectif:
 - Conceptualiser la page et travailler sur les containers Flexbox
 - Page de détail en premier sans interraction (HTML, CSS) 
 - Ajout de la partie dynamique en récuppérant le Poké et mettre à jour les champs
+
 
 
